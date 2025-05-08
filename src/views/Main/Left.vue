@@ -10,6 +10,7 @@ import { mainStore } from "@/store";
 import Message from "@/components/Message.vue";
 import SocialLinks from "@/components/SocialLinks.vue";
 const store = mainStore();
+console.log(666);
 </script>
 
 <style lang="scss" scoped>
